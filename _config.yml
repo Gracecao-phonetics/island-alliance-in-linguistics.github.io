@@ -23,7 +23,7 @@ repository               : "https://gracecao-phonetics.github.io/island-alliance
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IALL-logo.jpg"
   name             : "Island Alliance in Linguistics and Languages"
   pronouns         : # example: "she/her"  
   bio              : "A linguistcs research hub"
