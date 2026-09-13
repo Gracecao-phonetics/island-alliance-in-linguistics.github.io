@@ -1,6 +1,6 @@
 ---
 title: "University College Dublin"
-collection: teaching
+collection: members
 type: "Workshop"
 permalink: /members/UCD
 venue: "University 1, Department"
