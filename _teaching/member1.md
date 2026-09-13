@@ -3,7 +3,6 @@ title: "University College Dublin"
 collection: teaching
 type: "members"
 permalink: /members/UCD
-date: 2026-09-13
 location: "Dublin, Ireland"
 ---
 
