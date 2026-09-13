@@ -16,4 +16,4 @@ By unifying isolated research efforts into a collective voice, IALL empowers loc
 
 Join us
 ======
-If you would like to join us, please complete [this form] (https://docs.google.com/forms/d/e/1FAIpQLSc7vpvy5SuVEdzEdArFS6XrBNeFQN-r1oTHyHAA_-gULG-lPw/viewform?usp=publish-editor) and we will be in contact shortly. You can also email Grace Cao (gracecao@ucd.ie) for more information. 
+If you would like to join us, please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSc7vpvy5SuVEdzEdArFS6XrBNeFQN-r1oTHyHAA_-gULG-lPw/viewform?usp=publish-editor) and we will be in contact shortly. You can also email Grace Cao (gracecao@ucd.ie) for more information. 
