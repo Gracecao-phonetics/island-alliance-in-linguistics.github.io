@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Island Alliance in Linguistics and Languages (IALL) 島語聯盟
-
-> Established in 2026, **IALL** is a global research network dedicated to connecting scholars, educators, and community resource builders based on islands or working with island languages.
+Established in 2026, **IALL** is a global research network dedicated to connecting scholars, educators, and community resource builders based on islands or working with island languages.
 
 Founded by linguists from **University College Dublin** (Ireland) and **National Yang Ming Chiao Tung University** (Taiwan), we aim to build a stronger collaborative network to address shared linguistic challenges.
 
@@ -23,7 +21,7 @@ While researchers working on island languages often face limited institutional r
 * **Sharing field methodologies** and best practices for fieldwork.
 * **Promoting open-access language resources** for low-resource languages.
 
----
+
 
 ## 🔬 Key Focus Areas
 
@@ -32,11 +30,11 @@ Whether you are working locally or internationally, this network serves as your 
 * **Language Endangerment & Documentation**
 * **Sociolinguistic Diversity & Multilingualism**
 * **Heritage Language Preservation**
-* **Creole Dynamics**
+* **Creole Languages**
 * **Language Variation and Change**
 * **Computational Tools** for low-resource island languages
 
----
+
 
 ## 🤝 Join Our Network
 
