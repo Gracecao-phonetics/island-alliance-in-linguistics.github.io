@@ -4,14 +4,11 @@ title: "Upcoming events"
 permalink: /upcomingevents/
 author_profile: true
 ---
-**Research Talk**
+### 📢 Research Talk
 
-**Date:** 11th November 2026 Taiwan time 8pm/Ireland time 12noon
-
-**Title:** From Online Dictionaries to Phonetic Data: Filling Research Gaps in Taiwan’s Formosan Languages
-
-**Speaker:** Prof. Yu-An Lu (National Yang Ming Chiao Tung University)
-
-**Zoom link:** Click here to [request](https://forms.gle/6jPFiHQEdYWqPmif8)
+* **Speaker:** Prof. Yu-An Lu *(National Yang Ming Chiao Tung University)*
+* **Title:** *From Online Dictionaries to Phonetic Data: Filling Research Gaps in Taiwan’s Formosan Languages*
+* **Date & Time:** November 11, 2026 — 8:00 PM (Taiwan) / 12:00 PM (Ireland)
+* **Zoom Access:** [Request Zoom Link](https://forms.gle/6jPFiHQEdYWqPmif8)
 
 
