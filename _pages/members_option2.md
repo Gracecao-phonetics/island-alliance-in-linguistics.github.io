@@ -13,6 +13,8 @@ author_profile: true
 ### [Prof. Fangzhe Qiu](https://people.ucd.ie/fangzhe.qiu)
 * **Research expertise:** Celtic historical linguistics
 
+### [Prof. Bettina Migge](https://people.ucd.ie/bettinamigge)
+* **Research expertise:** Sociolinguistics, Creole languages, Language ideology
 ---
 
 ## 🏛️ National Yang Ming Chiao Tung University, Taiwan
