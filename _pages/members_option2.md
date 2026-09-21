@@ -14,7 +14,8 @@ author_profile: true
 * **Research expertise:** Celtic historical linguistics
 
 ### [Prof. Bettina Migge](https://people.ucd.ie/bettinamigge)
-* **Research expertise:** Sociolinguistics, Creole languages, Language ideology
+* **Research expertise:** Sociolinguistics • Creole languages • Language ideology
+  
 ---
 
 ## 🏛️ National Yang Ming Chiao Tung University, Taiwan
