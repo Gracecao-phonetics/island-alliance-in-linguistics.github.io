@@ -15,7 +15,9 @@ author_profile: true
 
 ### [Prof. Bettina Migge](https://people.ucd.ie/bettinamigge)
 * **Research expertise:** Sociolinguistics • Creole languages • Language ideology
-  
+
+### [Dr Connor McCabe](https://people.ucd.ie/connor.mccabe)
+* **Research expertise:** Phonetics and Phonology in Irish • Historical and ongoing change in Irish
 ---
 
 ## 🏛️ National Yang Ming Chiao Tung University, Taiwan
@@ -25,3 +27,12 @@ author_profile: true
 
 ### [Prof. Alan Tsung-Lun Wan](https://fl.nycu.edu.tw/2023/07/27/%E8%90%AC%E5%AE%97%E7%B6%B8/)
 * **Research expertise:** Sociophonetics • Clinical Phonetics • Sociolinguistics
+---
+
+## 🏛️ Fudan University, China
+
+### [Dr Lei He](https://imoll.fudan.edu.cn/info/1018/1943.htm)
+* **Research expertise:** Forensic Phonetics • Clinical Phonetics
+
+### [Dr Alex Smith](https://imoll.fudan.edu.cn/info/1018/2233.htm)
+* **Research expertise:** Austronesian and Kra-Dai languages • Historical Linguistics
